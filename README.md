@@ -49,7 +49,7 @@
 3. Complete **Introduction Sequence** at [Learn Git Branching](https://learngitbranching.js.org/)
 4. Complete Exercises 2-6 at the bottom of the page [here](https://missing.csail.mit.edu/2020/version-control/)
 
-##List of Pulls
+## List of Pulls
 - Jose Sepulveda
 
 
